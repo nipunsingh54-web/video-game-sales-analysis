@@ -83,7 +83,8 @@ The workbook includes an interactive Excel dashboard containing:
 - PivotTables
 - Charts
 - Interactive slicers
-- ## Excel Dashboard Preview
+
+## Excel Dashboard Preview
 
 ![Video Game Sales Dashboard](<Video game sales analysis dashboard.png>)
 
