@@ -31,10 +31,10 @@ The analysis focuses on:
 
 | KPI | Value |
 |---|---:|
-| Global Sales | 6,605.91 Mn |
-| Games with Reported Sales | 18,922 |
-| Average Sales per Game | 0.349 Mn |
-| Average Critic Score | 7.22 |
+| Global Sales (Mn Units) | 6,605.91 |
+| Sales-Reported Records | 18,922 |
+| Average Global Sales per Record (K Units) | 0.349 |
+| Average Critic Score (/10) | 7.22 |
 
 ## 🔍 Analysis Areas
 
@@ -83,6 +83,9 @@ The workbook includes an interactive Excel dashboard containing:
 - PivotTables
 - Charts
 - Interactive slicers
+- ## Excel Dashboard Preview
+
+![Video Game Sales Dashboard](<Video game sales analysis dashboard.png>)
 
 ## 📁 Project File
 
