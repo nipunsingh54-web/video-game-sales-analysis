@@ -33,7 +33,7 @@ The analysis focuses on:
 |---|---:|
 | Global Sales (Mn Units) | 6,605.91 |
 | Sales-Reported Records | 18,922 |
-| Average Global Sales per Record (K Units) | 0.349 |
+| Average Global Sales per Record (K Units) | 349.1 |
 | Average Critic Score (/10) | 7.22 |
 
 ## 🔍 Analysis Areas
